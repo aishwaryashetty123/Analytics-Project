@@ -6,5 +6,5 @@ An analysis has been conducted to understand the broker population by segmenting
 
 ## Problem Introduction
 The broker performance has been a major contribution to the business profits and hence, various key metrics have been identified to evaluate the same. These include, Gross Written Premium (GWP), submissions, quotes and policies. Evaluation involves the analysis of
-Broker segmentation over a three-year period wherein the brokers are grouped based on the characteristics of the metrics.
-Historical broker data to predict the GWP indicating an increase or decrease from the previous year’s value.
+>Broker segmentation over a three-year period wherein the brokers are grouped based on the characteristics of the metrics.
+>Historical broker data to predict the GWP indicating an increase or decrease from the previous year’s value.
